@@ -12,7 +12,7 @@ You type your current mood (e.g. “chaotic”, “lonely”, “feeling main ch
 
 - Built using **K-Nearest Neighbors (KNN)** algorithm
 - Vectorized mood tags using **TfidfVectorizer**
-- 500+ movies with custom vibes, tags, and genres
+- 20 movies with custom vibes, tags, and genres
 - Fast + interactive UI with **Streamlit**
 
 ---
